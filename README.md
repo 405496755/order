@@ -6,4 +6,4 @@
    b）DB Port
    c）DB Username
    d）DB Password
-3. 完成配置之后就可以运行spring程序;
+3. 完成配置之后可以运行spring程序;
