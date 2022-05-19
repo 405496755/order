@@ -36,7 +36,7 @@
 
 <html>
 <head>
-	<title>我们的主菜单</title>
+	<title>主菜单</title>
 </head>
 
 <body>
